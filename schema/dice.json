@@ -11,5 +11,5 @@
     "1d20"
   ],
   "type": "string",
-  "pattern": "[\\d]{1,}d[\\d]+"
+  "pattern": "[\\d]{1,}d[\\d]{1,}"
 }
