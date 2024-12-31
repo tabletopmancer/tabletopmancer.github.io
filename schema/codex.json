@@ -16,6 +16,10 @@
       "description": "A short code for the codex, must be unique.",
       "pattern": "[a-zA-Z_-]+"
     },
+    "icon": {
+      "type": "string",
+      "description": "Icon filename of the codex, relative to this file."
+    },
     "version": {
       "type": "string",
       "description": "The version of the codex."
